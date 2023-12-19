@@ -1,0 +1,6 @@
+Struk Transaksi
+Tanggal: 2023-12-19
+Waktu: 14:46:21.288602700
+Detail Transaksi:
+Jumlah yang Ditarik: Rp-6999000.0
+Saldo Tersisa: Rp7000000.0
